@@ -17,7 +17,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 ReactDOM.render(
   <BrowserRouter>
     <Routes>
-      <Route path="/ma" element={<Main />} />
+      <Route path="/main" element={<Main />} />
       <Route path="/" element={<App />} />
       
     </Routes>

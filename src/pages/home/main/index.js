@@ -5,4 +5,4 @@ function main(){
         </div>
     );
 }
- export default main();
+ export default main;
